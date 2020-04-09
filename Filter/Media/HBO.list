@@ -1,0 +1,5 @@
+# > HBO NOW
+USER-AGENT, HBO%20NOW*, HBO
+HOST-SUFFIX, hbo.com, HBO
+HOST-SUFFIX, hbogo.com, HBO
+HOST-SUFFIX, hbonow.com, HBO
