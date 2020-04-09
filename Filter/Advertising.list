@@ -1,6 +1,6 @@
 # Advertising 广告
 # > General
-HOST-KEYWORD,adservice,REJECT
+HOST-KEYWORD, adservice, REJECT
 
 HOST-SUFFIX,adcolony.com,REJECT
 HOST-SUFFIX,adinall.com,REJECT
