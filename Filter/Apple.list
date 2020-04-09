@@ -1,0 +1,15 @@
+# 如无特殊需求可不用加此策略及选择代理，在大部分地区 Apple CDN 可正常工作，使用代理后可能导致「Cannot Connect to iCloud」等问题
+# > Apple
+HOST-SUFFIX, aaplimg.com, Apple
+HOST-SUFFIX, apple.co, Apple
+HOST-SUFFIX, apple.com, Apple
+HOST-SUFFIX, apple-cloudkit.com, Apple
+HOST-SUFFIX, appstore.com, Apple
+HOST-SUFFIX, cdn-apple.com, Apple
+HOST-SUFFIX, crashlytics.com, Apple
+HOST-SUFFIX, icloud.com, Apple
+HOST-SUFFIX, icloud-content.com, Apple
+HOST-SUFFIX, me.com, Apple
+HOST-SUFFIX, mzstatic.com, Apple
+HOST, www-cdn.icloud.com.akadns.net, Apple
+IP-CIDR, 17.0.0.0/8, Apple
