@@ -1,0 +1,9 @@
+# > Apple News and Apple Map TOMTOM Version
+HOST, gspe1-ssl.ls.apple.com, PROXY
+USER-AGENT, AppleNews*, PROXY
+USER-AGENT, com.apple.news*, PROXY
+HOST-SUFFIX, apple.news,P ROXY
+HOST, news-client.apple.com, PROXY
+HOST, news-edge.apple.com, PROXY
+HOST, news-events.apple.com, PROXY
+HOST, apple.comscoreresearch.com, PROXY
