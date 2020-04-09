@@ -1,0 +1,13 @@
+# > Amazon Prime Video
+USER-AGENT, InstantVideo.US*, Amazon
+USER-AGENT, Prime%20Video*, Amazon
+HOST-SUFFIX, aiv-cdn.net, Amazon
+HOST-SUFFIX, aiv-delivery.net, Amazon
+HOST-SUFFIX, amazonvideo.com, Amazon
+HOST-SUFFIX, primevideo.com, Amazon
+HOST, avodmp4s3ww-a.akamaihd.net, Amazon
+HOST, d25xi40x97liuc.cloudfront.net, Amazon
+HOST, dmqdd6hw24ucf.cloudfront.net, Amazon
+HOST, d22qjgkvxw22r6.cloudfront.net, Amazon
+HOST, d1v5ir2lpwr8os.cloudfront.net, Amazon
+HOST-KEYWORD, avoddashs, Amazon
