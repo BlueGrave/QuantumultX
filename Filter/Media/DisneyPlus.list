@@ -1,0 +1,7 @@
+# > Disney+
+USER-AGENT, Disney+*, Disney+
+HOST-SUFFIX, bamgrid.com, Disney+
+HOST-SUFFIX, disney-plus.net, Disney+
+HOST-SUFFIX, disneyplus.com, Disney+
+HOST-SUFFIX, dssott.com, Disney+
+HOST, cdn.registerdisney.go.com, Disney+
