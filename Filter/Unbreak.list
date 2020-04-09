@@ -1,0 +1,19 @@
+# Unbreak
+# > General
+USER-AGENT, coffeecorp*, DIRECT
+USER-AGENT, restaurant-mobile*, DIRECT
+HOST, app.adjust.com, DIRECT
+# > Google
+HOST-SUFFIX, googletraveladservices.com, DIRECT
+HOST, analyticsinsights-pa.googleapis.com, PROXY
+HOST, analyticsreporting.googleapis.com, PROXY
+HOST, dl.google.com, DIRECT
+HOST, mtalk.google.com, DIRECT
+# > Tencent
+HOST, livew.l.qq.com, DIRECT
+HOST, vd.l.qq.com, DIRECT
+# > Strava
+HOST, analytics.strava.com, DIRECT
+# > Umeng
+HOST, msg.umeng.com, DIRECT
+HOST, msg.umengcloud.com, DIRECT
