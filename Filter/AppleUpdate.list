@@ -1,0 +1,9 @@
+# 屏蔽 iOS 更新
+;HOST, appldnld.apple.com, AppleUpdate
+;HOST, ns.itunes.apple.com, AppleUpdate
+;HOST, updates.cdn-apple.com, AppleUpdate
+;HOST, updates-http.cdn-apple.com, AppleUpdate
+HOST, xp.apple.com, AppleUpdate
+HOST, gdmf.apple.com, AppleUpdate
+HOST, mesu.apple.com, AppleUpdate
+HOST, ipsw.me, AppleUpdate
