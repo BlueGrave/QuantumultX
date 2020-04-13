@@ -1,0 +1,4 @@
+# > Deezer
+USER-AGENT, Deezer*, Deezer
+HOST-SUFFIX, deezer.com, Deezer
+HOST-SUFFIX, dzcdn.net, Deezer
