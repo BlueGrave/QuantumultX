@@ -1,0 +1,6 @@
+# > KKTV
+USER-AGENT, KKTV*, KKTV
+USER-AGENT, com.kktv.ios.kktv*, KKTV
+HOST-SUFFIX, kktv.com.tw, KKTV
+HOST-SUFFIX, kktv.me, KKTV
+HOST, kktv-theater.kk.stream, KKTV
