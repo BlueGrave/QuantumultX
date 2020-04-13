@@ -1,0 +1,5 @@
+# > ITV
+USER-AGENT, ITV_Player*, ITV
+HOST-SUFFIX, itv.com, ITV
+HOST-SUFFIX, itvstatic.com, ITV
+HOST, itvpnpmobile-a.akamaihd.net, ITV
