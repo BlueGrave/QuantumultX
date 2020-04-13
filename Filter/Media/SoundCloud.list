@@ -1,0 +1,5 @@
+# > SoundCloud
+USER-AGENT, SoundCloud*, SoundCloud
+HOST-SUFFIX, p-cdn.us, SoundCloud
+HOST-SUFFIX, sndcdn.com, SoundCloud
+HOST-SUFFIX, soundcloud.com, SoundCloud
