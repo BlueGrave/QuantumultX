@@ -1,6 +1,6 @@
 # > BBC_iPlayer
-USER-AGENT, BBCiPlayer*, BBCiPlayer
-HOST-SUFFIX, bbc.co.uk, BBCiPlayer
-HOST-SUFFIX, bbci.co.uk, BBCiPlayer
-HOST-KEYWORD, bbcfmt, BBCiPlayer
-HOST-KEYWORD, uk-live, BBCiPlayer
+USER-AGENT, BBCiPlayer*, BBC_iPlayer
+HOST-SUFFIX, bbc.co.uk, BBC_iPlayer
+HOST-SUFFIX, bbci.co.uk, BBC_iPlayer
+HOST-KEYWORD, bbcfmt, BBC_iPlayer
+HOST-KEYWORD, uk-live, BBC_iPlayer
