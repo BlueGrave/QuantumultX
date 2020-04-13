@@ -1,0 +1,6 @@
+# > niconico
+USER-AGENT, Niconico*, niconico
+HOST-SUFFIX, dmc.nico, niconico
+HOST-SUFFIX, nicovideo.jp, niconico
+HOST-SUFFIX, nimg.jp, niconico
+HOST-SUFFIX, socdm.com, niconico
