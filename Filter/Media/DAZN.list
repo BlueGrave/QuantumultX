@@ -1,0 +1,6 @@
+# > DAZN
+USER-AGENT, DAZN*, DAZN
+HOST-SUFFIX, dazn.com, DAZN
+HOST-SUFFIX, dazn-api.com, DAZN
+HOST, d151l6v8er5bdm.cloudfront.net, DAZN
+HOST-KEYWORD, voddazn, DAZN
