@@ -1,4 +1,6 @@
 # (DNS Cache Pollution Protection)
+# > 阿里云
+HOST-SUFFIX, alibabacloud.com, PROXY
 # > Google
 HOST-SUFFIX, ampproject.org, PROXY
 HOST-SUFFIX, appspot.com, PROXY
