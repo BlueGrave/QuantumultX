@@ -1,223 +1,223 @@
 # (ForeignMedia)
 # (Music)
 # > Deezer
-USER-AGENT,Deezer*,ForeignMedia
-HOST-SUFFIX,deezer.com,ForeignMedia
-HOST-SUFFIX,dzcdn.net,ForeignMedia
+USER-AGENT, Deezer*, ForeignMedia
+HOST-SUFFIX, deezer.com, ForeignMedia
+HOST-SUFFIX, dzcdn.net, ForeignMedia
 # > KKBOX
-HOST-SUFFIX,kkbox.com,ForeignMedia
-HOST-SUFFIX,kkbox.com.tw,ForeignMedia
-HOST-SUFFIX,kfs.io,ForeignMedia
+HOST-SUFFIX, kkbox.com, ForeignMedia
+HOST-SUFFIX, kkbox.com.tw, ForeignMedia
+HOST-SUFFIX, kfs.io, ForeignMedia
 # > JOOX
-USER-AGENT,WeMusic*,ForeignMedia
-USER-AGENT,JOOX*,ForeignMedia
-HOST-SUFFIX,joox.com,ForeignMedia
+USER-AGENT, WeMusic*, ForeignMedia
+USER-AGENT, JOOX*, ForeignMedia
+HOST-SUFFIX, joox.com, ForeignMedia
 # > Pandora
-USER-AGENT,Pandora*,ForeignMedia
-HOST-SUFFIX,pandora.com,ForeignMedia
+USER-AGENT, Pandora*, ForeignMedia
+HOST-SUFFIX, pandora.com, ForeignMedia
 # > SoundCloud
-USER-AGENT,SoundCloud*,ForeignMedia
-HOST-SUFFIX,p-cdn.us,ForeignMedia
-HOST-SUFFIX,sndcdn.com,ForeignMedia
-HOST-SUFFIX,soundcloud.com,ForeignMedia
+USER-AGENT, SoundCloud*, ForeignMedia
+HOST-SUFFIX, p-cdn.us, ForeignMedia
+HOST-SUFFIX, sndcdn.com, ForeignMedia
+HOST-SUFFIX, soundcloud.com, ForeignMedia
 # > Spotify
-USER-AGENT,Spotify*,ForeignMedia
-HOST-SUFFIX,pscdn.co,ForeignMedia
-HOST-SUFFIX,scdn.co,ForeignMedia
-HOST-SUFFIX,spotify.com,ForeignMedia
-HOST-SUFFIX,spoti.fi,ForeignMedia
-HOST-KEYWORD,spotify.com,ForeignMedia
-HOST-KEYWORD,-spotify-com,ForeignMedia
+USER-AGENT, Spotify*, ForeignMedia
+HOST-SUFFIX, pscdn.co, ForeignMedia
+HOST-SUFFIX, scdn.co, ForeignMedia
+HOST-SUFFIX, spotify.com, ForeignMedia
+HOST-SUFFIX, spoti.fi, ForeignMedia
+HOST-KEYWORD, spotify.com, ForeignMedia
+HOST-KEYWORD, -spotify-com, ForeignMedia
 # > TIDAL
-USER-AGENT,TIDAL*,ForeignMedia
-HOST-SUFFIX,tidal.com,ForeignMedia
+USER-AGENT, TIDAL*, ForeignMedia
+HOST-SUFFIX, tidal.com, ForeignMedia
 # > YouTubeMusic
-USER-AGENT,com.google.ios.youtubemusic*,ForeignMedia
-USER-AGENT,YouTubeMusic*,ForeignMedia
+USER-AGENT, com.google.ios.youtubemusic*, ForeignMedia
+USER-AGENT, YouTubeMusic*, ForeignMedia
 # (Video)
 # > All4
-USER-AGENT,All4*,ForeignMedia
-HOST-SUFFIX,c4assets.com,ForeignMedia
-HOST-SUFFIX,channel4.com,ForeignMedia
+USER-AGENT, All4*, ForeignMedia
+HOST-SUFFIX, c4assets.com, ForeignMedia
+HOST-SUFFIX, channel4.com, ForeignMedia
 # > AbemaTV
-USER-AGENT,AbemaTV*,ForeignMedia
-HOST-SUFFIX,abema.io,ForeignMedia
-HOST-SUFFIX,ameba.jp,ForeignMedia
-HOST-SUFFIX,abema.tv,ForeignMedia
-HOST-SUFFIX,hayabusa.io,ForeignMedia
-HOST,abematv.akamaized.net,ForeignMedia
-HOST,ds-linear-abematv.akamaized.net,ForeignMedia
-HOST,ds-vod-abematv.akamaized.net,ForeignMedia
-HOST,linear-abematv.akamaized.net,ForeignMedia
+USER-AGENT, AbemaTV*, ForeignMedia
+HOST-SUFFIX, abema.io, ForeignMedia
+HOST-SUFFIX, ameba.jp, ForeignMedia
+HOST-SUFFIX, abema.tv, ForeignMedia
+HOST-SUFFIX, hayabusa.io, ForeignMedia
+HOST, abematv.akamaized.net, ForeignMedia
+HOST, ds-linear-abematv.akamaized.net, ForeignMedia
+HOST, ds-vod-abematv.akamaized.net, ForeignMedia
+HOST, linear-abematv.akamaized.net, ForeignMedia
 # > Amazon Prime Video
-USER-AGENT,InstantVideo.US*,ForeignMedia
-USER-AGENT,Prime%20Video*,ForeignMedia
-HOST-SUFFIX,aiv-cdn.net,ForeignMedia
-HOST-SUFFIX,aiv-delivery.net,ForeignMedia
-HOST-SUFFIX,amazonvideo.com,ForeignMedia
-HOST-SUFFIX,primevideo.com,ForeignMedia
-HOST,avodmp4s3ww-a.akamaihd.net,ForeignMedia
-HOST,d25xi40x97liuc.cloudfront.net,ForeignMedia
-HOST,dmqdd6hw24ucf.cloudfront.net,ForeignMedia
-HOST,d22qjgkvxw22r6.cloudfront.net,ForeignMedia
-HOST,d1v5ir2lpwr8os.cloudfront.net,ForeignMedia
-HOST-KEYWORD,avoddashs,ForeignMedia
+USER-AGENT, InstantVideo.US*, ForeignMedia
+USER-AGENT, Prime%20Video*, ForeignMedia
+HOST-SUFFIX, aiv-cdn.net, ForeignMedia
+HOST-SUFFIX, aiv-delivery.net, ForeignMedia
+HOST-SUFFIX, amazonvideo.com, ForeignMedia
+HOST-SUFFIX, primevideo.com, ForeignMedia
+HOST, avodmp4s3ww-a.akamaihd.net, ForeignMedia
+HOST, d25xi40x97liuc.cloudfront.net, ForeignMedia
+HOST, dmqdd6hw24ucf.cloudfront.net, ForeignMedia
+HOST, d22qjgkvxw22r6.cloudfront.net, ForeignMedia
+HOST, d1v5ir2lpwr8os.cloudfront.net, ForeignMedia
+HOST-KEYWORD, avoddashs, ForeignMedia
 # > Bahamut
-USER-AGENT,Anime*,ForeignMedia
-HOST-SUFFIX,bahamut.com.tw,ForeignMedia
-HOST-SUFFIX,gamer.com.tw,ForeignMedia
-HOST,gamer-cds.cdn.hinet.net,ForeignMedia
-HOST,gamer2-cds.cdn.hinet.net,ForeignMedia
+USER-AGENT, Anime*, ForeignMedia
+HOST-SUFFIX, bahamut.com.tw, ForeignMedia
+HOST-SUFFIX, gamer.com.tw, ForeignMedia
+HOST, gamer-cds.cdn.hinet.net, ForeignMedia
+HOST, gamer2-cds.cdn.hinet.net, ForeignMedia
 # > BBC iPlayer
-USER-AGENT,BBCiPlayer*,ForeignMedia
-HOST-SUFFIX,bbc.co.uk,ForeignMedia
-HOST-SUFFIX,bbci.co.uk,ForeignMedia
-HOST-KEYWORD,bbcfmt,ForeignMedia
-HOST-KEYWORD,uk-live,ForeignMedia
+USER-AGENT, BBCiPlayer*, ForeignMedia
+HOST-SUFFIX, bbc.co.uk, ForeignMedia
+HOST-SUFFIX, bbci.co.uk, ForeignMedia
+HOST-KEYWORD, bbcfmt, ForeignMedia
+HOST-KEYWORD, uk-live, ForeignMedia
 # > DAZN
-USER-AGENT,DAZN*,ForeignMedia
-HOST-SUFFIX,dazn.com,ForeignMedia
-HOST-SUFFIX,dazn-api.com,ForeignMedia
-HOST,d151l6v8er5bdm.cloudfront.net,ForeignMedia
-HOST-KEYWORD,voddazn,ForeignMedia
+USER-AGENT, DAZN*, ForeignMedia
+HOST-SUFFIX, dazn.com, ForeignMedia
+HOST-SUFFIX, dazn-api.com, ForeignMedia
+HOST, d151l6v8er5bdm.cloudfront.net, ForeignMedia
+HOST-KEYWORD, voddazn, ForeignMedia
 # > Disney+
-USER-AGENT,Disney+*,ForeignMedia
-HOST-SUFFIX,bamgrid.com,ForeignMedia
-HOST-SUFFIX,disney-plus.net,ForeignMedia
-HOST-SUFFIX,disneyplus.com,ForeignMedia
-HOST-SUFFIX,dssott.com,ForeignMedia
-HOST,cdn.registerdisney.go.com,ForeignMedia
+USER-AGENT, Disney+*, ForeignMedia
+HOST-SUFFIX,bamgrid.com, ForeignMedia
+HOST-SUFFIX, disney-plus.net, ForeignMedia
+HOST-SUFFIX, disneyplus.com, ForeignMedia
+HOST-SUFFIX, dssott.com, ForeignMedia
+HOST, cdn.registerdisney.go.com, ForeignMedia
 # > encoreTVB
-USER-AGENT,encoreTVB*,ForeignMedia
-HOST-SUFFIX,encoretvb.com,ForeignMedia
-HOST,edge.api.brightcove.com,ForeignMedia
-HOST,bcbolt446c5271-a.akamaihd.net,ForeignMedia
+USER-AGENT, encoreTVB*, ForeignMedia
+HOST-SUFFIX, encoretvb.com, ForeignMedia
+HOST, edge.api.brightcove.com, ForeignMedia
+HOST, bcbolt446c5271-a.akamaihd.net, ForeignMedia
 # > FOX NOW
-USER-AGENT,FOX%20NOW*,ForeignMedia
-HOST-SUFFIX,fox.com,ForeignMedia
-HOST-SUFFIX,foxdcg.com,ForeignMedia
-HOST-SUFFIX,theplatform.com,ForeignMedia
-HOST-SUFFIX,uplynk.com,ForeignMedia
+USER-AGENT, FOX%20NOW*,ForeignMedia
+HOST-SUFFIX, fox.com, ForeignMedia
+HOST-SUFFIX, foxdcg.com, ForeignMedia
+HOST-SUFFIX, theplatform.com, ForeignMedia
+HOST-SUFFIX, uplynk.com, ForeignMedia
 # > HBO NOW
-USER-AGENT,HBO%20NOW*,ForeignMedia
-HOST-SUFFIX,hbo.com,ForeignMedia
-HOST-SUFFIX,hbogo.com,ForeignMedia
-HOST-SUFFIX,hbonow.com,ForeignMedia
+USER-AGENT, HBO%20NOW*, ForeignMedia
+HOST-SUFFIX, hbo.com, ForeignMedia
+HOST-SUFFIX, hbogo.com, ForeignMedia
+HOST-SUFFIX, hbonow.com, ForeignMedia
 # > HBO GO HKG
-USER-AGENT,HBO%20GO%20PROD%20HKG*,ForeignMedia
-HOST-SUFFIX,hbogoasia.com,ForeignMedia
-HOST-SUFFIX,hbogoasia.hk,ForeignMedia
-HOST,bcbolthboa-a.akamaihd.net,ForeignMedia
-HOST,players.brightcove.net,ForeignMedia
-HOST,s3-ap-southeast-1.amazonaws.com,ForeignMedia
-HOST,dai3fd1oh325y.cloudfront.net,ForeignMedia
-HOST,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,ForeignMedia
-HOST,hboasia1-i.akamaihd.net,ForeignMedia
-HOST,hboasia2-i.akamaihd.net,ForeignMedia
-HOST,hboasia3-i.akamaihd.net,ForeignMedia
-HOST,hboasia4-i.akamaihd.net,ForeignMedia
-HOST,hboasia5-i.akamaihd.net,ForeignMedia
-HOST,cf-images.ap-southeast-1.prod.boltdns.net,ForeignMedia
+USER-AGENT, HBO%20GO%20PROD%20HKG*, ForeignMedia
+HOST-SUFFIX, hbogoasia.com, ForeignMedia
+HOST-SUFFIX, hbogoasia.hk, ForeignMedia
+HOST, bcbolthboa-a.akamaihd.net, ForeignMedia
+HOST, players.brightcove.net, ForeignMedia
+HOST, s3-ap-southeast-1.amazonaws.com, ForeignMedia
+HOST, dai3fd1oh325y.cloudfront.net, ForeignMedia
+HOST, 44wilhpljf.execute-api.ap-southeast-1.amazonaws.com, ForeignMedia
+HOST, hboasia1-i.akamaihd.net, ForeignMedia
+HOST, hboasia2-i.akamaihd.net, ForeignMedia
+HOST, hboasia3-i.akamaihd.net, ForeignMedia
+HOST, hboasia4-i.akamaihd.net, ForeignMedia
+HOST, hboasia5-i.akamaihd.net, ForeignMedia
+HOST, cf-images.ap-southeast-1.prod.boltdns.net, ForeignMedia
 # > 华文电视
-USER-AGENT,HWTVMobile*,ForeignMedia
-HOST-SUFFIX,5itv.tv,ForeignMedia
-HOST-SUFFIX,ocnttv.com,ForeignMedia
+USER-AGENT, HWTVMobile*, ForeignMedia
+HOST-SUFFIX, 5itv.tv, ForeignMedia
+HOST-SUFFIX, ocnttv.com, ForeignMedia
 # > Hulu
-HOST-SUFFIX,hulu.com,ForeignMedia
-HOST-SUFFIX,huluim.com,ForeignMedia
-HOST-SUFFIX,hulustream.com,ForeignMedia
+HOST-SUFFIX, hulu.com, ForeignMedia
+HOST-SUFFIX, huluim.com, ForeignMedia
+HOST-SUFFIX, hulustream.com, ForeignMedia
 # > Hulu(フールー)
-HOST-SUFFIX,happyon.jp,ForeignMedia
-HOST-SUFFIX,hulu.jp,ForeignMedia
+HOST-SUFFIX, happyon.jp, ForeignMedia
+HOST-SUFFIX, hulu.jp, ForeignMedia
 # > ITV
-USER-AGENT,ITV_Player*,ForeignMedia
-HOST-SUFFIX,itv.com,ForeignMedia
-HOST-SUFFIX,itvstatic.com,ForeignMedia
-HOST,itvpnpmobile-a.akamaihd.net,ForeignMedia
+USER-AGENT, ITV_Player*, ForeignMedia
+HOST-SUFFIX, itv.com, ForeignMedia
+HOST-SUFFIX, itvstatic.com, ForeignMedia
+HOST, itvpnpmobile-a.akamaihd.net, ForeignMedia
 # > KKTV
-USER-AGENT,KKTV*,ForeignMedia
-USER-AGENT,com.kktv.ios.kktv*,ForeignMedia
-HOST-SUFFIX,kktv.com.tw,ForeignMedia
-HOST-SUFFIX,kktv.me,ForeignMedia
-HOST,kktv-theater.kk.stream,ForeignMedia
+USER-AGENT, KKTV*, ForeignMedia
+USER-AGENT, com.kktv.ios.kktv*, ForeignMedia
+HOST-SUFFIX, kktv.com.tw, ForeignMedia
+HOST-SUFFIX, kktv.me, ForeignMedia
+HOST, kktv-theater.kk.stream, ForeignMedia
 # > Line TV
-USER-AGENT,LINE%20TV*,ForeignMedia
-HOST-SUFFIX,linetv.tw,ForeignMedia
-HOST,d3c7rimkq79yfu.cloudfront.net,ForeignMedia
+USER-AGENT, LINE%20TV*, ForeignMedia
+HOST-SUFFIX, linetv.tw, ForeignMedia
+HOST, d3c7rimkq79yfu.cloudfront.net, ForeignMedia
 # > LiTV
-HOST-SUFFIX,litv.tv,ForeignMedia
-HOST,litvfreemobile-hichannel.cdn.hinet.net,ForeignMedia
+HOST-SUFFIX, litv.tv, ForeignMedia
+HOST, litvfreemobile-hichannel.cdn.hinet.net, ForeignMedia
 # > My5
-USER-AGENT,My5*,ForeignMedia
-HOST-SUFFIX,channel5.com,ForeignMedia
-HOST-SUFFIX,my5.tv,ForeignMedia
-HOST,d349g9zuie06uo.cloudfront.net,ForeignMedia
+USER-AGENT, My5*, ForeignMedia
+HOST-SUFFIX, channel5.com, ForeignMedia
+HOST-SUFFIX, my5.tv, ForeignMedia
+HOST, d349g9zuie06uo.cloudfront.net, ForeignMedia
 # > myTV SUPER
-USER-AGENT,mytv*,ForeignMedia
-HOST-SUFFIX,mytvsuper.com,ForeignMedia
-HOST-SUFFIX,tvb.com,ForeignMedia
+USER-AGENT, mytv*, ForeignMedia
+HOST-SUFFIX, mytvsuper.com, ForeignMedia
+HOST-SUFFIX, tvb.com, ForeignMedia
 # > Netflix
-USER-AGENT,Argo*,ForeignMedia
-HOST-SUFFIX,netflix.com,ForeignMedia
-HOST-SUFFIX,netflix.net,ForeignMedia
-HOST-SUFFIX,nflxext.com,ForeignMedia
-HOST-SUFFIX,nflximg.com,ForeignMedia
-HOST-SUFFIX,nflximg.net,ForeignMedia
-HOST-SUFFIX,nflxso.net,ForeignMedia
-HOST-SUFFIX,nflxvideo.net,ForeignMedia
-HOST-SUFFIX,netflixdnstest0.com,ForeignMedia
-HOST-SUFFIX,netflixdnstest1.com,ForeignMedia
-HOST-SUFFIX,netflixdnstest2.com,ForeignMedia
-HOST-SUFFIX,netflixdnstest3.com,ForeignMedia
-HOST-SUFFIX,netflixdnstest4.com,ForeignMedia
-HOST-SUFFIX,netflixdnstest5.com,ForeignMedia
-HOST-SUFFIX,netflixdnstest6.com,ForeignMedia
-HOST-SUFFIX,netflixdnstest7.com,ForeignMedia
-HOST-SUFFIX,netflixdnstest8.com,ForeignMedia
-HOST-SUFFIX,netflixdnstest9.com,ForeignMedia
-IP-CIDR,23.246.0.0/18,ForeignMedia
-IP-CIDR,37.77.184.0/21,ForeignMedia
-IP-CIDR,45.57.0.0/17,ForeignMedia
-IP-CIDR,64.120.128.0/17,ForeignMedia
-IP-CIDR,66.197.128.0/17,ForeignMedia
-IP-CIDR,108.175.32.0/20,ForeignMedia
-IP-CIDR,192.173.64.0/18,ForeignMedia
-IP-CIDR,198.38.96.0/19,ForeignMedia
-IP-CIDR,198.45.48.0/20,ForeignMedia
+USER-AGENT, Argo*, ForeignMedia
+HOST-SUFFIX, netflix.com, ForeignMedia
+HOST-SUFFIX, netflix.net, ForeignMedia
+HOST-SUFFIX, nflxext.com, ForeignMedia
+HOST-SUFFIX, nflximg.com, ForeignMedia
+HOST-SUFFIX, nflximg.net, ForeignMedia
+HOST-SUFFIX, nflxso.net, ForeignMedia
+HOST-SUFFIX, nflxvideo.net, ForeignMedia
+HOST-SUFFIX, netflixdnstest0.com, ForeignMedia
+HOST-SUFFIX, netflixdnstest1.com, ForeignMedia
+HOST-SUFFIX, netflixdnstest2.com, ForeignMedia
+HOST-SUFFIX, netflixdnstest3.com, ForeignMedia
+HOST-SUFFIX, netflixdnstest4.com, ForeignMedia
+HOST-SUFFIX, netflixdnstest5.com, ForeignMedia
+HOST-SUFFIX, netflixdnstest6.com, ForeignMedia
+HOST-SUFFIX, netflixdnstest7.com, ForeignMedia
+HOST-SUFFIX, netflixdnstest8.com, ForeignMedia
+HOST-SUFFIX, netflixdnstest9.com, ForeignMedia
+IP-CIDR, 23.246.0.0/18, ForeignMedia
+IP-CIDR, 37.77.184.0/21, ForeignMedia
+IP-CIDR, 45.57.0.0/17, ForeignMedia
+IP-CIDR, 64.120.128.0/17, ForeignMedia
+IP-CIDR, 66.197.128.0/17, ForeignMedia
+IP-CIDR, 108.175.32.0/20, ForeignMedia
+IP-CIDR, 192.173.64.0/18, ForeignMedia
+IP-CIDR, 198.38.96.0/19, ForeignMedia
+IP-CIDR, 198.45.48.0/20, ForeignMedia
 # > niconico
-USER-AGENT,Niconico*,ForeignMedia
-HOST-SUFFIX,dmc.nico,ForeignMedia
-HOST-SUFFIX,nicovideo.jp,ForeignMedia
-HOST-SUFFIX,nimg.jp,ForeignMedia
-HOST-SUFFIX,socdm.com,ForeignMedia
+USER-AGENT, Niconico*, ForeignMedia
+HOST-SUFFIX, dmc.nico, ForeignMedia
+HOST-SUFFIX, nicovideo.jp, ForeignMedia
+HOST-SUFFIX, nimg.jp, ForeignMedia
+HOST-SUFFIX, socdm.com, ForeignMedia
 # > PBS
-USER-AGENT,PBS*,ForeignMedia
-HOST-SUFFIX,pbs.org,ForeignMedia
+USER-AGENT, PBS*, ForeignMedia
+HOST-SUFFIX, pbs.org, ForeignMedia
 # > Pornhub
-HOST-SUFFIX,phncdn.com,ForeignMedia
-HOST-SUFFIX,pornhub.com,ForeignMedia
-HOST-SUFFIX,pornhubpremium.com,ForeignMedia
+HOST-SUFFIX, phncdn.com, ForeignMedia
+HOST-SUFFIX, pornhub.com, ForeignMedia
+HOST-SUFFIX, pornhubpremium.com, ForeignMedia
 # > 台湾好
-USER-AGENT,TaiwanGood*,ForeignMedia
-HOST-SUFFIX,skyking.com.tw,ForeignMedia
-HOST,hamifans.emome.net,ForeignMedia
+USER-AGENT, TaiwanGood*, ForeignMedia
+HOST-SUFFIX, skyking.com.tw, ForeignMedia
+HOST, hamifans.emome.net, ForeignMedia
 # > Twitch
-HOST-SUFFIX,twitch.tv,ForeignMedia
-HOST-SUFFIX,twitchcdn.net,ForeignMedia
-HOST-SUFFIX,ttvnw.net,ForeignMedia
-HOST-SUFFIX,jtvnw.net,ForeignMedia
+HOST-SUFFIX, twitch.tv, ForeignMedia
+HOST-SUFFIX, twitchcdn.net, ForeignMedia
+HOST-SUFFIX, ttvnw.net, ForeignMedia
+HOST-SUFFIX, jtvnw.net, ForeignMedia
 # > ViuTV
-USER-AGENT,Viu*,ForeignMedia
-USER-AGENT,ViuTV*,ForeignMedia
-HOST-SUFFIX,viu.com,ForeignMedia
-HOST-SUFFIX,viu.tv,ForeignMedia
-HOST,api.viu.now.com,ForeignMedia
-HOST,d1k2us671qcoau.cloudfront.net,ForeignMedia
-HOST,d2anahhhmp1ffz.cloudfront.net,ForeignMedia
-HOST,dfp6rglgjqszk.cloudfront.net,ForeignMedia
+USER-AGENT, Viu*, ForeignMedia
+USER-AGENT, ViuTV*, ForeignMedia
+HOST-SUFFIX, viu.com, ForeignMedia
+HOST-SUFFIX, viu.tv, ForeignMedia
+HOST, api.viu.now.com, ForeignMedia
+HOST, d1k2us671qcoau.cloudfront.net, ForeignMedia
+HOST, d2anahhhmp1ffz.cloudfront.net, ForeignMedia
+HOST, dfp6rglgjqszk.cloudfront.net, ForeignMedia
 # > YouTube
-USER-AGENT,com.google.ios.youtube*,ForeignMedia
-USER-AGENT,YouTube*,ForeignMedia
-HOST-SUFFIX,googlevideo.com,ForeignMedia
-HOST-SUFFIX,youtube.com,ForeignMedia
-HOST,youtubei.googleapis.com,ForeignMedia
+USER-AGENT, com.google.ios.youtube*, ForeignMedia
+USER-AGENT, YouTube*, ForeignMedia
+HOST-SUFFIX, googlevideo.com, ForeignMedia
+HOST-SUFFIX, youtube.com, ForeignMedia
+HOST, youtubei.googleapis.com, ForeignMedia
