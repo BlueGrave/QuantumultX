@@ -295,6 +295,7 @@ HOST-SUFFIX, readmoo.com, PROXY
 HOST-SUFFIX, redbubble.com, PROXY
 HOST-SUFFIX, reddit.com, PROXY
 HOST-SUFFIX, redditmedia.com, PROXY
+HOST-SUFFIX, redditstatic.com, PROXY
 HOST-SUFFIX, resilio.com, PROXY
 HOST-SUFFIX, reuters.com, PROXY
 HOST-SUFFIX, reutersmedia.net, PROXY
