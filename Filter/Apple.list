@@ -3,11 +3,13 @@
 HOST-SUFFIX, aaplimg.com, Apple
 HOST-SUFFIX, apple.co, Apple
 HOST-SUFFIX, apple.com, Apple
+HOST-SUFFIX, apple.com.cn, Apple
 HOST-SUFFIX, apple-cloudkit.com, Apple
 HOST-SUFFIX, appstore.com, Apple
 HOST-SUFFIX, cdn-apple.com, Apple
 HOST-SUFFIX, crashlytics.com, Apple
 HOST-SUFFIX, icloud.com, Apple
+HOST-SUFFIX, icloud.com.cn, Apple
 HOST-SUFFIX, icloud-content.com, Apple
 HOST-SUFFIX, me.com, Apple
 HOST-SUFFIX, mzstatic.com, Apple
