@@ -55,3 +55,18 @@ HOST-SUFFIX, gvt3.com, Google
 HOST-SUFFIX, xn—ngstr-lra8j.com, Google
 HOST-KEYWORD, google, Google
 HOST-KEYWORD, blogspot, Google
+
+# ACL4SSR
+HOST-KEYWORD, gmail, Google
+HOST-KEYWORD, google, Google
+HOST-SUFFIX, 1e100.net, Google
+HOST-SUFFIX, 2mdn.net, Google
+HOST-SUFFIX, app-measurement.net, Google
+HOST-SUFFIX, g.co, Google
+HOST-SUFFIX, goo.gl, Google
+HOST-SUFFIX, googleapis.cn, Google
+HOST-SUFFIX, gstatic.cn, Google
+HOST-SUFFIX, xn--ngstr-lra8j.com, Google
+HOST-SUFFIX, youtube-nocookie.com, Google
+IP-CIDR, 74.125.0.0/16, Google
+IP-CIDR, 173.194.0.0/16, Google
