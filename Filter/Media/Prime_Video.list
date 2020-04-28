@@ -1,6 +1,6 @@
 # > Amazon Prime Video
 USER-AGENT, InstantVideo.US*, Amazon
-USER-AGENT, Prime%20Video*, Amazon
+USER-AGENT, Prime%20Video*, Prime Video
 HOST-SUFFIX, aiv-cdn.net, Amazon
 HOST-SUFFIX, aiv-delivery.net, Amazon
 HOST-SUFFIX, amazonvideo.com, Amazon
