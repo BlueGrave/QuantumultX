@@ -1,9 +1,0 @@
-# > ViuTV
-USER-AGENT, Viu*, ViuTV
-USER-AGENT, ViuTV*, ViuTV
-HOST-SUFFIX, viu.com, ViuTV
-HOST-SUFFIX, viu.tv, ViuTV
-HOST, api.viu.now.com, ViuTV
-HOST, d1k2us671qcoau.cloudfront.net, ViuTV
-HOST, d2anahhhmp1ffz.cloudfront.net, ViuTV
-HOST, dfp6rglgjqszk.cloudfront.net, ViuTV
