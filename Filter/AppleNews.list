@@ -1,9 +1,0 @@
-# > Apple News and Apple Map TOMTOM Version
-HOST, gspe1-ssl.ls.apple.com, AppleNews
-USER-AGENT, AppleNews*, AppleNews
-USER-AGENT, com.apple.news*, AppleNews
-HOST-SUFFIX, apple.news, AppleNews
-HOST, news-client.apple.com, AppleNews
-HOST, news-edge.apple.com, AppleNews
-HOST, news-events.apple.com, AppleNews
-HOST, apple.comscoreresearch.com, AppleNews
