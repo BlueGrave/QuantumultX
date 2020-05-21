@@ -175,15 +175,15 @@ HOST-SUFFIX, netflixdnstest6.com, ForeignMedia
 HOST-SUFFIX, netflixdnstest7.com, ForeignMedia
 HOST-SUFFIX, netflixdnstest8.com, ForeignMedia
 HOST-SUFFIX, netflixdnstest9.com, ForeignMedia
-IP-CIDR, 23.246.0.0/18, ForeignMedia
-IP-CIDR, 37.77.184.0/21, ForeignMedia
-IP-CIDR, 45.57.0.0/17, ForeignMedia
-IP-CIDR, 64.120.128.0/17, ForeignMedia
-IP-CIDR, 66.197.128.0/17, ForeignMedia
-IP-CIDR, 108.175.32.0/20, ForeignMedia
-IP-CIDR, 192.173.64.0/18, ForeignMedia
-IP-CIDR, 198.38.96.0/19, ForeignMedia
-IP-CIDR, 198.45.48.0/20, ForeignMedia
+IP-CIDR, 23.246.0.0/18, ForeignMedia, no-resolve
+IP-CIDR, 37.77.184.0/21, ForeignMedia, no-resolve
+IP-CIDR, 45.57.0.0/17, ForeignMedia, no-resolve
+IP-CIDR, 64.120.128.0/17, ForeignMedia, no-resolve
+IP-CIDR, 66.197.128.0/17, ForeignMedia, no-resolve
+IP-CIDR, 108.175.32.0/20, ForeignMedia, no-resolve
+IP-CIDR, 192.173.64.0/18, ForeignMedia, no-resolve
+IP-CIDR, 198.38.96.0/19, ForeignMedia, no-resolve
+IP-CIDR, 198.45.48.0/20, ForeignMedia, no-resolve
 # > niconico
 USER-AGENT, Niconico*, ForeignMedia
 HOST-SUFFIX, dmc.nico, ForeignMedia
