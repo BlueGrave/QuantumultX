@@ -68,5 +68,5 @@ HOST-SUFFIX, googleapis.cn, Google
 HOST-SUFFIX, gstatic.cn, Google
 HOST-SUFFIX, xn--ngstr-lra8j.com, Google
 HOST-SUFFIX, youtube-nocookie.com, Google
-IP-CIDR, 74.125.0.0/16, Google
-IP-CIDR, 173.194.0.0/16, Google
+IP-CIDR, 74.125.0.0/16, Google, no-resolve
+IP-CIDR, 173.194.0.0/16, Google, no-resolve
