@@ -176,15 +176,15 @@ HOST-SUFFIX,netflixdnstest6.com,GlobalMedia
 HOST-SUFFIX,netflixdnstest7.com,GlobalMedia
 HOST-SUFFIX,netflixdnstest8.com,GlobalMedia
 HOST-SUFFIX,netflixdnstest9.com,GlobalMedia
-IP-CIDR,23.246.0.0/18,GlobalMedia
-IP-CIDR,37.77.184.0/21,GlobalMedia
-IP-CIDR,45.57.0.0/17,GlobalMedia
-IP-CIDR,64.120.128.0/17,GlobalMedia
-IP-CIDR,66.197.128.0/17,GlobalMedia
-IP-CIDR,108.175.32.0/20,GlobalMedia
-IP-CIDR,192.173.64.0/18,GlobalMedia
-IP-CIDR,198.38.96.0/19,GlobalMedia
-IP-CIDR,198.45.48.0/20,GlobalMedia
+IP-CIDR,23.246.0.0/18,GlobalMedia, no-resolve
+IP-CIDR,37.77.184.0/21,GlobalMedia, no-resolve
+IP-CIDR,45.57.0.0/17,GlobalMedia, no-resolve
+IP-CIDR,64.120.128.0/17,GlobalMedia, no-resolve
+IP-CIDR,66.197.128.0/17,GlobalMedia, no-resolve
+IP-CIDR,108.175.32.0/20,GlobalMedia, no-resolve
+IP-CIDR,192.173.64.0/18,GlobalMedia, no-resolve
+IP-CIDR,198.38.96.0/19,GlobalMedia, no-resolve
+IP-CIDR,198.45.48.0/20,GlobalMedia, no-resolve
 # > niconico
 USER-AGENT,Niconico*,GlobalMedia
 HOST-SUFFIX,dmc.nico,GlobalMedia
