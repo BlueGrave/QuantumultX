@@ -1,0 +1,13 @@
+# 内容：YouTube
+# 数量：11条
+USER-AGENT, *youtube*, YouTube
+USER-AGENT, YouTube*, YouTube
+USER-AGENT, com.google.ios.youtube*, YouTube
+DOMAIN-KEYWORD, youtube, YouTube
+DOMAIN, youtubei.googleapis.com, YouTube
+DOMAIN, yt3.ggpht.com, YouTube
+DOMAIN-SUFFIX, googlevideo.com, YouTube
+DOMAIN-SUFFIX, gvt2.com, YouTube
+DOMAIN-SUFFIX, youtu.be, YouTube
+DOMAIN-SUFFIX, youtube.com, YouTube
+DOMAIN-SUFFIX, ytimg.com, YouTube
