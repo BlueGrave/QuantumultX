@@ -1,24 +1,25 @@
 # 内容：Steam
 # 数量：5条
-DOMAIN-SUFFIX, fanatical.com, Games
-DOMAIN-SUFFIX, humblebundle.com, Games
-DOMAIN-SUFFIX, steamcommunity.com, Games
-DOMAIN-SUFFIX, steampowered.com, Games
-DOMAIN-SUFFIX, steamstatic.com, Games
+HOST-SUFFIX, fanatical.com, Games
+HOST-SUFFIX, humblebundle.com, Games
+HOST-SUFFIX, steamcommunity.com, Games
+HOST-SUFFIX, steampowered.com, Games
+HOST-SUFFIX, steamstatic.com, Games
+HOST-SUFFIX, steamdb.info, Games
 
 # 内容：SteamCN
 # 数量：14条
-DOMAIN, cdn.mileweb.cs.steampowered.com.8686c.com, Games
-DOMAIN, dl.steam.ksyna.com, Games
-DOMAIN, st.dl.bscstorage.net, Games
-DOMAIN, st.dl.eccdnx.com, Games
-DOMAIN, st.dl.pinyuncloud.com, Games
-DOMAIN-SUFFIX, csgo.wmsj.cn, Games
-DOMAIN-SUFFIX, dota2.wmsj.cn, Games
-DOMAIN-SUFFIX, steam-chat.com, Games
-DOMAIN-SUFFIX, steamcdn-a.akamaihd.net, Games
-DOMAIN-SUFFIX, steamcontent.com, Games
-DOMAIN-SUFFIX, steamgames.com, Games
-DOMAIN-SUFFIX, steamstat.us, Games
-DOMAIN-SUFFIX, steamstatic.com, Games
-DOMAIN-SUFFIX, steamusercontent.com, Games
+HOST, cdn.mileweb.cs.steampowered.com.8686c.com, Games
+HOST, dl.steam.ksyna.com, Games
+HOST, st.dl.bscstorage.net, Games
+HOST, st.dl.eccdnx.com, Games
+HOST, st.dl.pinyuncloud.com, Games
+HOST-SUFFIX, csgo.wmsj.cn, Games
+HOST-SUFFIX, dota2.wmsj.cn, Games
+HOST-SUFFIX, steam-chat.com, Games
+HOST-SUFFIX, steamcdn-a.akamaihd.net, Games
+HOST-SUFFIX, steamcontent.com, Games
+HOST-SUFFIX, steamgames.com, Games
+HOST-SUFFIX, steamstat.us, Games
+HOST-SUFFIX, steamstatic.com, Games
+HOST-SUFFIX, steamusercontent.com, Games
