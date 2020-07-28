@@ -8,17 +8,16 @@ HOST-SUFFIX, steamstatic.com, Games
 
 # 内容：SteamCN
 # 数量：14条
-HOST, cdn.mileweb.cs.steampowered.com.8686c.com, Games
-HOST, dl.steam.ksyna.com, Games
-HOST, st.dl.bscstorage.net, Games
-HOST, st.dl.eccdnx.com, Games
-HOST, st.dl.pinyuncloud.com, Games
 HOST-SUFFIX, csgo.wmsj.cn, Games
+HOST-SUFFIX, dl.steam.ksyna.com, Games
 HOST-SUFFIX, dota2.wmsj.cn, Games
-HOST-SUFFIX, steam-chat.com, Games
+HOST-SUFFIX, st.dl.bscstorage.net, Games
+HOST-SUFFIX, st.dl.eccdnx.com, Games
+HOST-SUFFIX, st.dl.pinyuncloud.com, Games
 HOST-SUFFIX, steamcdn-a.akamaihd.net, Games
 HOST-SUFFIX, steamcontent.com, Games
 HOST-SUFFIX, steamgames.com, Games
+HOST-SUFFIX, steampowered.com.8686c.com, Games
 HOST-SUFFIX, steamstat.us, Games
 HOST-SUFFIX, steamstatic.com, Games
 HOST-SUFFIX, steamusercontent.com, Games
