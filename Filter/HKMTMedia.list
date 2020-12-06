@@ -1,6 +1,0 @@
-# (HKMTMedia)
-# > 愛奇藝台灣站
-HOST, cache.video.iqiyi.com, HKMTMedia
-# > bilibili
-HOST, api.bilibili.com, HKMTMedia
-HOST, upos-hz-mirrorakam.akamaized.net, HKMTMedia
