@@ -1,16 +1,16 @@
 # 内容：HBO_GO_HKG
 # 数量：14条
-USER-AGENT, HBO%20GO%20PROD%20HKG*, HBO GO
-HOST, 44wilhpljf.execute-api.ap-southeast-1.amazonaws.com, HBO GO
-HOST, bcbolthboa-a.akamaihd.net, HBO GO
-HOST, cf-images.ap-southeast-1.prod.boltdns.net, HBO GO
-HOST, dai3fd1oh325y.cloudfront.net, HBO GO
-HOST, hboasia1-i.akamaihd.net, HBO GO
-HOST, hboasia2-i.akamaihd.net, HBO GO
-HOST, hboasia3-i.akamaihd.net, HBO GO
-HOST, hboasia4-i.akamaihd.net, HBO GO
-HOST, hboasia5-i.akamaihd.net, HBO GO
-HOST, players.brightcove.net, HBO GO
-HOST, s3-ap-southeast-1.amazonaws.com, HBO GO
-HOST-SUFFIX, hbogoasia.com, HBO GO
-HOST-SUFFIX, hbogoasia.hk, HBO GO
+USER-AGENT, HBO%20GO%20PROD%20HKG*, HBO GO HKG
+HOST, 44wilhpljf.execute-api.ap-southeast-1.amazonaws.com, HBO GO HKG
+HOST, bcbolthboa-a.akamaihd.net, HBO GO HKG
+HOST, cf-images.ap-southeast-1.prod.boltdns.net, HBO GO HKG
+HOST, dai3fd1oh325y.cloudfront.net, HBO GO HKG
+HOST, hboasia1-i.akamaihd.net, HBO GO HKG
+HOST, hboasia2-i.akamaihd.net, HBO GO HKG
+HOST, hboasia3-i.akamaihd.net, HBO GO HKG
+HOST, hboasia4-i.akamaihd.net, HBO GO HKG
+HOST, hboasia5-i.akamaihd.net, HBO GO HKG
+HOST, players.brightcove.net, HBO GO HKG
+HOST, s3-ap-southeast-1.amazonaws.com, HBO GO HKG
+HOST-SUFFIX, hbogoasia.com, HBO GO HKG
+HOST-SUFFIX, hbogoasia.hk, HBO GO HKG
