@@ -1,9 +1,0 @@
-# > Gmail
-HOST, pop.gmail.com, Mail
-HOST, imap.gmail.com, Mail
-HOST, smtp.gmail.com, Mail
-# > Outlook
-HOST, outlook.office365.com, Mail
-HOST, smtp.office365.com, Mail
-HOST, imap-mail.outlook.com, Mail
-HOST, smtp-mail.outlook.com, Mail
