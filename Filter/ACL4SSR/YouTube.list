@@ -14,7 +14,7 @@ HOST-SUFFIX, ytimg.com, YouTube
 
 # 内容：YouTubeMusic
 # 数量：4条
-USER-AGENT, *YouTubeMusic*
-USER-AGENT, *com.google.ios.youtubemusic*
-USER-AGENT, YouTubeMusic*
-USER-AGENT, com.google.ios.youtubemusic
+USER-AGENT, *YouTubeMusic*, YouTube
+USER-AGENT, *com.google.ios.youtubemusic*, YouTube
+USER-AGENT, YouTubeMusic*, YouTube
+USER-AGENT, com.google.ios.youtubemusic, YouTube
