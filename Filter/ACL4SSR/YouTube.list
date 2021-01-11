@@ -12,6 +12,10 @@ HOST-SUFFIX, youtu.be, YouTube
 HOST-SUFFIX, youtube.com, YouTube
 HOST-SUFFIX, ytimg.com, YouTube
 
+# 自己补充
+HOST, clients2.google.com, YouTube
+HOST, clients4.google.com, YouTube
+
 # 内容：YouTubeMusic
 # 数量：4条
 USER-AGENT, *YouTubeMusic*, YouTube
