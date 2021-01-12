@@ -1,8 +1,7 @@
-# > OneDrive
+# 内容：OneDrive
+# 数量：18条
 USER-AGENT, OneDrive*, OneDrive
 USER-AGENT, OneDriveiOSApp*, OneDrive
-
-# ACL4SSR
 HOST-KEYWORD, 1drv, OneDrive
 HOST-KEYWORD, onedrive, OneDrive
 HOST-KEYWORD, skydrive, OneDrive
@@ -11,8 +10,9 @@ HOST-SUFFIX, oneclient.sfx.ms, OneDrive
 HOST-SUFFIX, onedrive.com, OneDrive
 HOST-SUFFIX, onedrive.live.com, OneDrive
 HOST-SUFFIX, photos.live.com, OneDrive
+HOST-SUFFIX, sharepoint.com, OneDrive
+HOST-SUFFIX, sharepointonline.com, OneDrive
 HOST-SUFFIX, skydrive.wns.windows.com, OneDrive
 HOST-SUFFIX, spoprod-a.akamaihd.net, OneDrive
 HOST-SUFFIX, storage.live.com, OneDrive
 HOST-SUFFIX, storage.msn.com, OneDrive
-;HOST-SUFFIX, aria.microsoft.com, OneDrive
