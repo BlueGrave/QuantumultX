@@ -1,0 +1,12 @@
+# > Emby
+HOST, emby.ytoo.li, Emby
+HOST, emby.nexitally.com, Emby
+HOST, emby.w8ves.co, Emby
+HOST, emby.nyancat.net, Emby
+HOST, emby.xeton.dev, Emby
+HOST, jellyfin.xeton.dev, Emby
+HOST, movie.xeton.dev, Emby
+HOST, servers.xeton.dev, Emby
+IP-CIDR, 45.137.217.217/32, Emby
+HOST, emby.plusmedia.site, DIRECT
+HOST, bgp.emby.mickeycloud.com, DIRECT
