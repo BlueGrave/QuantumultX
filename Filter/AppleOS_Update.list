@@ -1,4 +1,4 @@
-# 屏蔽 AppleOS 更新
+# 屏蔽 AppleOS 更新 
 # iOS
 HOST, ns.itunes.apple.com, AppleOS Update
 HOST, gdmf.apple.com, AppleOS Update
