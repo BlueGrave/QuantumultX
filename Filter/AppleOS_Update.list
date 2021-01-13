@@ -1,9 +1,12 @@
 # 屏蔽 AppleOS 更新
-HOST, appldnld.apple.com, AppleOS Update
+# iOS
 HOST, ns.itunes.apple.com, AppleOS Update
+HOST, gdmf.apple.com, AppleOS Update
+HOST, appldnld.apple.com, AppleOS Update
+HOST, ipsw.me, AppleOS Update
+
+# iOS, tvOS and macOS
+HOST, mesu.apple.com, AppleOS Update
 HOST, updates.cdn-apple.com, AppleOS Update
 HOST, updates-http.cdn-apple.com, AppleOS Update
 HOST, xp.apple.com, AppleOS Update
-HOST, gdmf.apple.com, AppleOS Update
-HOST, mesu.apple.com, AppleOS Update
-HOST, ipsw.me, AppleOS Update
