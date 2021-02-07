@@ -1,5 +1,5 @@
 # Quantumult X
-自用的 Quantumult X 规则
+自用的 Quantumult X 规则和脚本
 
 主用 [DivineEngine](https://github.com/DivineEngine/Profiles) 的规则，自己补充的放到 [Filter/Patch](https://github.com/BlueGrave/QuantumultX/tree/master/Filter/Patch) 目录下
 
