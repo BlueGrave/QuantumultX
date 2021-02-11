@@ -1,4 +1,7 @@
 # > Emby
+USER-AGENT, Infuse*, Emby
+USER-AGENT, Emby*, Emby
+HOST-KEYWORD, emby, Emby
 HOST, emby.ytoo.li, Emby
 HOST, emby.nexitally.com, Emby
 HOST, emby.w8ves.co, Emby
@@ -9,9 +12,9 @@ HOST, emby.mdss.cloud, Emby
 HOST, jellyfin.xeton.dev, Emby
 HOST, movie.xeton.dev, Emby
 HOST, servers.xeton.dev, Emby
-IP-CIDR, 45.137.217.217/32, Emby
 HOST, emby.plusmedia.site, DIRECT
 HOST, bgp.emby.mickeycloud.com, DIRECT
 HOST-SUFFIX,emby.wtf, Emby
 HOST-SUFFIX,plusmedia.site, Emby
 HOST-SUFFIX,mickeycloud.com, Emby
+IP-CIDR, 45.137.217.217/32, Emby, no-resolve
