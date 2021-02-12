@@ -1,7 +1,4 @@
 # > Emby
-USER-AGENT, Infuse*, Emby
-USER-AGENT, Emby*, Emby
-HOST-KEYWORD, emby, Emby
 HOST, emby.ytoo.li, Emby
 HOST, emby.nexitally.com, Emby
 HOST, emby.w8ves.co, Emby
