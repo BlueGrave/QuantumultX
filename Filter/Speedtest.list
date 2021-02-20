@@ -1,8 +1,0 @@
-# > Speedtest by Ookla
-USER-AGENT, SpeedTest*, Speedtest
-HOST-KEYWORD, speedtest, Speedtest
-HOST-SUFFIX, ooklaserver.net, Speedtest
-HOST-SUFFIX, speed.cloudflare.com, Speedtest
-
-# > Netflix Fast.com
-HOST-SUFFIX, fast.com, Speedtest
