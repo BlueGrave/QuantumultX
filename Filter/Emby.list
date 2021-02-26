@@ -1,12 +1,22 @@
 # > Emby
 # 各机场服
+# YToo
 HOST, emby.ytoo.li, Emby
+# Nexitally
 HOST, emby.nexitally.com, Emby
+# w8ves
 HOST, emby.w8ves.co, Emby
+# FlowerCloud
 HOST, emby.flowercloud.yt, Emby
+# prprCloud
 HOST, emby.prprcloud.com, Emby
+# Maying
 HOST, emby.maying.club, Emby
+# MDSS
 HOST, emby.mdss.cloud, Emby
+# 跑车云
+HOST, emby.cjpc.xyz, Emby
+HOST, emby.paoche.ooo, Emby
 
 # 备用服 1-4
 HOST, emby.xeton.dev, Emby
@@ -19,6 +29,6 @@ HOST, emby.plusmedia.site, DIRECT
 # CF 公益服
 HOST, emby-cf.plusmedia.site, Emby
 
-HOST-SUFFIX,emby.wtf, Emby
-HOST-SUFFIX,plusmedia.site, Emby
-HOST-SUFFIX,mickeycloud.com, Emby
+HOST-SUFFIX, emby.wtf, Emby
+HOST-SUFFIX, plusmedia.site, Emby
+HOST-SUFFIX, mickeycloud.com, Emby
