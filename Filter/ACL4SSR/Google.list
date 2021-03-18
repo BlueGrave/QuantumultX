@@ -9,19 +9,19 @@ HOST-SUFFIX, g.co, Google
 HOST-SUFFIX, ggpht.com, Google
 HOST-SUFFIX, goo.gl, Google
 HOST-SUFFIX, googleapis.cn, Google
-# HOST-SUFFIX, googleapis.com, Google
+;HOST-SUFFIX, googleapis.com, Google
 HOST-SUFFIX, gstatic.cn, Google
 HOST-SUFFIX, gstatic.com, Google
 HOST-SUFFIX, gvt0.com, Google
 HOST-SUFFIX, gvt1.com, Google
-# HOST-SUFFIX, gvt2.com, Google
+;HOST-SUFFIX, gvt2.com, Google
 HOST-SUFFIX, gvt3.com, Google
 HOST-SUFFIX, xn--ngstr-lra8j.com, Google
-# HOST-SUFFIX, youtu.be, Google
+;HOST-SUFFIX, youtu.be, Google
 HOST-SUFFIX, youtube-nocookie.com, Google
-# HOST-SUFFIX, youtube.com, Google
+;HOST-SUFFIX, youtube.com, Google
 HOST-SUFFIX, yt.be, Google
-# HOST-SUFFIX, ytimg.com, Google
+;HOST-SUFFIX, ytimg.com, Google
 IP-CIDR, 74.125.0.0/16, Google, no-resolve
 IP-CIDR, 173.194.0.0/16, Google, no-resolve
 
@@ -29,15 +29,15 @@ IP-CIDR, 173.194.0.0/16, Google, no-resolve
 # 数量：52条
 HOST-SUFFIX, 265.com, Google
 HOST-SUFFIX, 2mdn.net, Google
-# HOST-SUFFIX, alt1-mtalk.google.com, Google
-# HOST-SUFFIX, alt2-mtalk.google.com, Google
-# HOST-SUFFIX, alt3-mtalk.google.com, Google
-# HOST-SUFFIX, alt4-mtalk.google.com, Google
-# HOST-SUFFIX, alt5-mtalk.google.com, Google
-# HOST-SUFFIX, alt6-mtalk.google.com, Google
-# HOST-SUFFIX, alt7-mtalk.google.com, Google
-# HOST-SUFFIX, alt8-mtalk.google.com, Google
-# HOST-SUFFIX, app-measurement.com, Google
+;HOST-SUFFIX, alt1-mtalk.google.com, Google
+;HOST-SUFFIX, alt2-mtalk.google.com, Google
+;HOST-SUFFIX, alt3-mtalk.google.com, Google
+;HOST-SUFFIX, alt4-mtalk.google.com, Google
+;HOST-SUFFIX, alt5-mtalk.google.com, Google
+;HOST-SUFFIX, alt6-mtalk.google.com, Google
+;HOST-SUFFIX, alt7-mtalk.google.com, Google
+;HOST-SUFFIX, alt8-mtalk.google.com, Google
+;HOST-SUFFIX, app-measurement.com, Google
 HOST-SUFFIX, c.android.clients.google.com, Google
 HOST-SUFFIX, cache.pack.google.com, Google
 HOST-SUFFIX, clickserve.dartsearch.net, Google
