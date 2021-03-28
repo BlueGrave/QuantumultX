@@ -38,3 +38,9 @@ HOST,emby2021.kozow.com, Emby
 HOST,cf.youremby.gq, Emby
 # AGA 香港公益服
 HOST,aga.youremby.gq, Emby
+
+USER-AGENT, Emby*, Emby
+HOST-KEYWORD, emby, Emby
+HOST-SUFFIX, mb3admin.com, Emby
+HOST-SUFFIX, mickeycloud.com, Emby
+HOST-SUFFIX, plusmedia.site, Emby
