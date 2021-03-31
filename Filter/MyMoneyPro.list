@@ -16,6 +16,6 @@ HOST, tg.feidee.com, REJECT
 HOST, gate.feidee.com, REJECT
 HOST, data.flurry.com, REJECT
 HOST, weili.cardniu.com, REJECT
-HOST- SUFFIX,ssjlicai.com, REJECT
+HOST-SUFFIX, ssjlicai.com, REJECT
 HOST, m.sui.com, REJECT
 HOST, sf3-ttcdn-tos.pstatp.com, REJECT
