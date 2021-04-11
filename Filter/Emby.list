@@ -19,6 +19,8 @@ HOST, emby.cjpc.xyz, Emby
 HOST, emby.paoche.ooo, Emby
 # EXFLUX
 HOST, line.emby.men, Emby
+# WaveCloud
+HOST, embyserver.ga, Emby
 
 # AGA 公益服
 HOST, emby.plusmedia.site, DIRECT
