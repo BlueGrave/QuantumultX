@@ -1,0 +1,8 @@
+# 自己整理的
+# 排除 AdBlock 的误伤
+HOST-SUFFIX, tce.alicdn.com, DIRECT
+HOST-SUFFIX, accounts.logi.com, DIRECT
+HOST-SUFFIX, ghub.logitech.io, DIRECT
+HOST, gm.mmstat.com, DIRECT
+HOST, passportapi.115.com, DIRECT
+HOST, tui.weibo.com, DIRECT
