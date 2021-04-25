@@ -1,0 +1,4 @@
+# 自己整理的黑名单
+
+# 屏蔽勾正数据
+HOST-SUFFIX, gz-data.com, REJECT
