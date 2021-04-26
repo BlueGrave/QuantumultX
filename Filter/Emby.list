@@ -41,6 +41,9 @@ HOST,cf.youremby.gq, Emby
 # AGA 香港公益服
 HOST,aga.youremby.gq, Emby
 
+# 网络跳跃公益服
+HOST, hijklsp.changweicat.shop, Emby
+
 USER-AGENT, Emby*, Emby
 HOST-KEYWORD, emby, Emby
 HOST-SUFFIX, mb3admin.com, Emby
