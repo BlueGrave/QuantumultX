@@ -1,7 +1,9 @@
 # 自己整理的黑名单
 
 # 屏蔽 iOS 企业证书
-;HOST, ocsp.apple.com, REJECT
+;HOST,ocsp-lb.apple.com.akadns.net,REJECT
+;HOST,ocsp.apple.com,REJECT
+;HOST,ocsp.g.aaplimg.com,REJECT
 
 # 屏蔽勾正数据
-HOST-SUFFIX, gz-data.com, REJECT
+HOST-SUFFIX,gz-data.com,REJECT

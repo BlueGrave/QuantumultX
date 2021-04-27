@@ -1,21 +1,21 @@
 # 随手记专业版去广告
-HOST, sync.feidee.net, DIRECT
-USER-AGENT, MyMoneyPro*, REJECT
-HOST, userapi.feidee.net, REJECT
-HOST, data.feidee.net, REJECT
-HOST, api.feidee.net, REJECT
-HOST, kinglog.feidee.net, REJECT
-HOST, oss.feidee.net, REJECT
-HOST, ab.feidee.net, REJECT
-HOST, invest.feidee.net, REJECT
-HOST, pull.feidee.net, REJECT
-HOST, message.feidee.com, REJECT
-HOST, bbs.feidee.com, REJECT
-HOST, bbsapi.feidee.com, REJECT
-HOST, tg.feidee.com, REJECT
-HOST, gate.feidee.com, REJECT
-HOST, data.flurry.com, REJECT
-HOST, weili.cardniu.com, REJECT
-HOST-SUFFIX, ssjlicai.com, REJECT
-HOST, m.sui.com, REJECT
-HOST, sf3-ttcdn-tos.pstatp.com, REJECT
+HOST,sync.feidee.net,DIRECT
+USER-AGENT,MyMoneyPro*,REJECT
+HOST,userapi.feidee.net,REJECT
+HOST,data.feidee.net,REJECT
+HOST,api.feidee.net,REJECT
+HOST,kinglog.feidee.net,REJECT
+HOST,oss.feidee.net,REJECT
+HOST,ab.feidee.net,REJECT
+HOST,invest.feidee.net,REJECT
+HOST,pull.feidee.net,REJECT
+HOST,message.feidee.com,REJECT
+HOST,bbs.feidee.com,REJECT
+HOST,bbsapi.feidee.com,REJECT
+HOST,tg.feidee.com,REJECT
+HOST,gate.feidee.com,REJECT
+HOST,data.flurry.com,REJECT
+HOST,weili.cardniu.com,REJECT
+HOST-SUFFIX,ssjlicai.com,REJECT
+HOST,m.sui.com,REJECT
+HOST,sf3-ttcdn-tos.pstatp.com,REJECT
