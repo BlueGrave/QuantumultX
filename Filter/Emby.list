@@ -38,10 +38,10 @@ HOST,servers.xeton.dev,Emby
 # 4K 影视屋
 HOST,emby2021.kozow.com,Emby
 
-# CloudFlare 公益服
-HOST,cf.youremby.gq,Emby
-# AGA 香港公益服
-HOST,aga.youremby.gq,Emby
+# Odyssey+ CloudFlare 公益服
+HOST,shogouki.youremby.gq,Emby
+# Odyssey+ AGA 香港公益服
+HOST,aga01.youremby.gq,Emby
 
 # 网络跳跃公益服
 HOST,hijklsp.changweicat.shop,Emby
