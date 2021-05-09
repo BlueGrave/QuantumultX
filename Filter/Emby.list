@@ -28,6 +28,7 @@ HOST,emby.immtel.com,Emby
 HOST,emby-cf.plusmedia.site,Emby
 # AGA 公益服
 HOST,emby.plusmedia.site,DIRECT
+HOST,emby-sg.plusmedia.site,DIRECT
 
 # 备用公益服 1-4
 HOST,emby.xeton.dev,Emby
