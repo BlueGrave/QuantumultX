@@ -19,3 +19,7 @@ HOST,weili.cardniu.com,REJECT
 HOST-SUFFIX,ssjlicai.com,REJECT
 HOST,m.sui.com,REJECT
 HOST,sf3-ttcdn-tos.pstatp.com,REJECT
+HOST,sf3-fe-tos.pglstatp-toutiao.com,REJECT
+HOST,dm.bytedance.com,REJECT
+HOST,idaa.shuzilm.cn,REJECT
+HOST,qzs.qq.com,REJECT
