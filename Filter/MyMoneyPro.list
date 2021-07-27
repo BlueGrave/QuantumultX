@@ -9,6 +9,7 @@ HOST,oss.feidee.net,REJECT
 HOST,ab.feidee.net,REJECT
 HOST,invest.feidee.net,REJECT
 HOST,pull.feidee.net,REJECT
+HOST,yun.feidee.net,REJECT
 HOST,message.feidee.com,REJECT
 HOST,bbs.feidee.com,REJECT
 HOST,bbsapi.feidee.com,REJECT
