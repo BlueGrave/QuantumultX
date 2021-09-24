@@ -2,7 +2,5 @@
 HOST,sync.feidee.net,DIRECT
 HOST,auth.feidee.net,DIRECT
 USER-AGENT,MyMoneyPro*,REJECT
-HOST,api.feidee.net,REJECT
-HOST,kinglog.feidee.net,REJECT
-HOST,oss.feidee.net,REJECT
-HOST,m.sui.com,REJECT
+HOST-SUFFIX,feidee.com,REJECT
+HOST-SUFFIX,feidee.net,REJECT
