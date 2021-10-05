@@ -1,24 +1,24 @@
 # 自己整理的
 # 排除 AdBlock 的误伤
 
-HOST,gm.mmstat.com
-HOST,log.mmstat.com
-HOST,sycm.mmstat.com
-HOST,passportapi.115.com
-HOST,tui.weibo.com
-HOST,msg.umeng.com
-HOST,msg.umengcloud.com
-HOST,analytics.95516.com
-HOST,analytics.strava.com
-HOST,app.adjust.com
-HOST,bdtj.tagtic.cn
-HOST,fairplay.l.qq.com
-HOST,origin-a.akamaihd.net
-HOST,pubads.g.doubleclick.net
-HOST-SUFFIX,tce.alicdn.com
-HOST-SUFFIX,accounts.logi.com
-HOST-SUFFIX,ghub.logitech.io
-HOST-SUFFIX,dizhensubao.getui.com
-HOST-SUFFIX,f.video.weibocdn.com
-HOST-SUFFIX,fus.cdn.krcom.cn
-HOST-SUFFIX,tracking-protection.cdn.mozilla.net
+HOST,gm.mmstat.com,DIRECT
+HOST,log.mmstat.com,DIRECT
+HOST,sycm.mmstat.com,DIRECT
+HOST,passportapi.115.com,DIRECT
+HOST,tui.weibo.com,DIRECT
+HOST,msg.umeng.com,DIRECT
+HOST,msg.umengcloud.com,DIRECT
+HOST,analytics.95516.com,DIRECT
+HOST,analytics.strava.com,DIRECT
+HOST,app.adjust.com,DIRECT
+HOST,bdtj.tagtic.cn,DIRECT
+HOST,fairplay.l.qq.com,DIRECT
+HOST,origin-a.akamaihd.net,DIRECT
+HOST,pubads.g.doubleclick.net,DIRECT
+HOST-SUFFIX,tce.alicdn.com,DIRECT
+HOST-SUFFIX,accounts.logi.com,DIRECT
+HOST-SUFFIX,ghub.logitech.io,DIRECT
+HOST-SUFFIX,dizhensubao.getui.com,DIRECT
+HOST-SUFFIX,f.video.weibocdn.com,DIRECT
+HOST-SUFFIX,fus.cdn.krcom.cn,DIRECT
+HOST-SUFFIX,tracking-protection.cdn.mozilla.net,DIRECT
