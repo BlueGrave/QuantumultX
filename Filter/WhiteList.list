@@ -1,8 +1,24 @@
 # 自己整理的
 # 排除 AdBlock 的误伤
-HOST-SUFFIX,tce.alicdn.com,DIRECT
-HOST-SUFFIX,accounts.logi.com,DIRECT
-HOST-SUFFIX,ghub.logitech.io,DIRECT
-HOST,gm.mmstat.com,DIRECT
-HOST,passportapi.115.com,DIRECT
-HOST,tui.weibo.com,DIRECT
+
+HOST,gm.mmstat.com
+HOST,log.mmstat.com
+HOST,sycm.mmstat.com
+HOST,passportapi.115.com
+HOST,tui.weibo.com
+HOST,msg.umeng.com
+HOST,msg.umengcloud.com
+HOST,analytics.95516.com
+HOST,analytics.strava.com
+HOST,app.adjust.com
+HOST,bdtj.tagtic.cn
+HOST,fairplay.l.qq.com
+HOST,origin-a.akamaihd.net
+HOST,pubads.g.doubleclick.net
+HOST-SUFFIX,tce.alicdn.com
+HOST-SUFFIX,accounts.logi.com
+HOST-SUFFIX,ghub.logitech.io
+HOST-SUFFIX,dizhensubao.getui.com
+HOST-SUFFIX,f.video.weibocdn.com
+HOST-SUFFIX,fus.cdn.krcom.cn
+HOST-SUFFIX,tracking-protection.cdn.mozilla.net
