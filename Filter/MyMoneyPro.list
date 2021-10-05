@@ -1,4 +1,5 @@
 # 随手记专业版去广告
+
 HOST,sync.feidee.net,DIRECT
 HOST,auth.feidee.net,DIRECT
 USER-AGENT,MyMoneyPro*,REJECT
