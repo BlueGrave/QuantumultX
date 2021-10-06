@@ -15,6 +15,10 @@ HOST,bdtj.tagtic.cn,DIRECT
 HOST,fairplay.l.qq.com,DIRECT
 HOST,origin-a.akamaihd.net,DIRECT
 HOST,pubads.g.doubleclick.net,DIRECT
+HOST,livew.l.qq.com,DIRECT
+HOST,vd.l.qq.com,DIRECT
+HOST,analytics.95516.com,DIRECT
+HOST,tracking.miui.com,DIRECT
 HOST-SUFFIX,tce.alicdn.com,DIRECT
 HOST-SUFFIX,accounts.logi.com,DIRECT
 HOST-SUFFIX,ghub.logitech.io,DIRECT
