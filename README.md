@@ -3,7 +3,7 @@
 
 主用 [blackmatrix7](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX) 和 [DivineEngine](https://github.com/DivineEngine/Profiles/tree/master/Quantumult/Filter) 的规则
 
-###自用的特殊规则
+### 自用的特殊规则
 - [WhiteList.list](https://github.com/BlueGrave/QuantumultX/blob/master/Filter/WhiteList.list) 需要 DIRECT 放行的规则
 - [BlackList.list](https://github.com/BlueGrave/QuantumultX/blob/master/Filter/BlackList.list) 需要 REJECT 阻止的规则
 - [RedList.list](https://github.com/BlueGrave/QuantumultX/blob/master/Filter/RedList.list) 需要 PROXY 代理的规则
