@@ -1,6 +1,12 @@
 # Quantumult X
-自用的 Quantumult X 规则和脚本
+自用的 Quantumult X 规则、脚本和图片
 
-主用 [DivineEngine](https://github.com/DivineEngine/Profiles) 的规则，自己补充的放到 [Filter/Patch](https://github.com/BlueGrave/QuantumultX/tree/master/Filter/Patch) 目录下
+主用 [blackmatrix7](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX) 和 [DivineEngine](https://github.com/DivineEngine/Profiles/tree/master/Quantumult/Filter) 的规则
 
-其他 [DivineEngine](https://github.com/DivineEngine/Profiles) 没有提供的规则，则是根据 [ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) 的规则整理的，放到 [Filter/ACL4SSR](https://github.com/BlueGrave/QuantumultX/tree/master/Filter/ACL4SSR) 目录下
+自用的特殊规则
+- [WhiteList.list](https://github.com/BlueGrave/QuantumultX/blob/master/Filter/WhiteList.list) 需要 DIRECT 放行的规则
+- [BlackList.list](https://github.com/BlueGrave/QuantumultX/blob/master/Filter/BlackList.list) 需要 REJECT 阻止的规则
+- [RedList.list](https://github.com/BlueGrave/QuantumultX/blob/master/Filter/RedList.list) 需要 PROXY 代理的规则
+- [MyMoneyPro.list](https://github.com/BlueGrave/QuantumultX/blob/master/Filter/MyMoneyPro.list) 屏蔽随手记专业版 App 开屏广告
+- [Emby.list](https://github.com/BlueGrave/QuantumultX/blob/master/Filter/Emby.list) 自己整理的各个 Emby 规则
+- [AppleOS_Update.list](https://github.com/BlueGrave/QuantumultX/blob/master/Filter/AppleOS_Update.list) 结合多个大佬的相关规则整理出来的各 Apple OS OTA 规则
