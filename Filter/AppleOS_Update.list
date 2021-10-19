@@ -1,26 +1,32 @@
 # 屏蔽 AppleOS 更新
 
+# 屏蔽 iOS/iPadOS 企业证书失效
+HOST-SUFFIX,ocsp-lb.apple.com.akadns.net
+HOST-SUFFIX,ocsp.apple.com
+HOST-SUFFIX,ocsp.g.aaplimg.com
+
 # iOS Update
 HOST,ns.itunes.apple.com,AppleOS Update
-HOST,gdmf.apple.com,AppleOS Update
-HOST,gdmf.apple.com.akadns.net,AppleOS Update
-HOST,appldnld-lb.apple.com.akadns.net,AppleOS Update
-HOST,appldnld.apple.com,AppleOS Update
-HOST,appldnld.apple.com.akadns.net,AppleOS Update
-HOST,appldnld.g.aaplimg.com,AppleOS Update
+HOST-SUFFIX,appldnld-lb.apple.com.akadns.net,AppleOS Update
+HOST-SUFFIX,appldnld.apple.com,AppleOS Update
+HOST-SUFFIX,appldnld.apple.com.akadns.net,AppleOS Update
+HOST-SUFFIX,appldnld.g.aaplimg.com,AppleOS Update
 HOST,ipsw.me,AppleOS Update
 
 # iOS, tvOS and macOS
-HOST,mesu-cdn.apple.com.akadns.net,AppleOS Update
-HOST,mesu-cdn.origin-apple.com.akadns.net,AppleOS Update
-HOST,mesu.apple.com,AppleOS Update
-HOST,mesu.g.aaplimg.com,AppleOS Update
+HOST,gg.apple.com,AppleOS Update
+HOST-SUFFIX,gdmf.apple.com,AppleOS Update
+HOST-SUFFIX,gdmf.apple.com.akadns.net,AppleOS Update
+HOST-SUFFIX,mesu-cdn.apple.com.akadns.net,AppleOS Update
+HOST-SUFFIX,mesu-cdn.origin-apple.com.akadns.net,AppleOS Update
+HOST-SUFFIX,mesu.apple.com,AppleOS Update
+HOST-SUFFIX,mesu.g.aaplimg.com,AppleOS Update
 HOST,updates.cdn-apple.com,AppleOS Update
 HOST,updates-http.cdn-apple.com,AppleOS Update
 HOST,xp.apple.com,AppleOS Update
 
 # macOS Update
-HOST,gg.apple.com,AppleOS Update
+HOST,configuration.apple.com
 HOST,gnf-mdn.apple.com,AppleOS Update
 HOST,gnf-mr.apple.com,AppleOS Update
 HOST,gs.apple.com,AppleOS Update
