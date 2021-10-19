@@ -5,7 +5,7 @@ HOST-SUFFIX,ocsp-lb.apple.com.akadns.net
 HOST-SUFFIX,ocsp.apple.com
 HOST-SUFFIX,ocsp.g.aaplimg.com
 
-# iOS Update
+# iOS/iPadOS Update
 HOST,ns.itunes.apple.com,AppleOS Update
 HOST-SUFFIX,appldnld-lb.apple.com.akadns.net,AppleOS Update
 HOST-SUFFIX,appldnld.apple.com,AppleOS Update
@@ -13,7 +13,7 @@ HOST-SUFFIX,appldnld.apple.com.akadns.net,AppleOS Update
 HOST-SUFFIX,appldnld.g.aaplimg.com,AppleOS Update
 HOST,ipsw.me,AppleOS Update
 
-# iOS, tvOS and macOS
+# iOS/iPadOS, tvOS and macOS
 HOST,gg.apple.com,AppleOS Update
 HOST-SUFFIX,gdmf.apple.com,AppleOS Update
 HOST-SUFFIX,gdmf.apple.com.akadns.net,AppleOS Update
