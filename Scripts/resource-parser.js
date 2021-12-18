@@ -2115,12 +2115,13 @@ function Strojan2QX(content) {
   var tag = "tag=" + cnt.split("=")[0].trim();
   var ipport = cnt.split(",")[1].trim() + ":" + cnt.split(",")[2].trim();
   var pwd = "password=" + cnt.split("password")[1].split(",")[0].split("=")[1].trim();
+  var sni = "sni=" + cnt.split("sni")[1].split(",")[0].split("=")[1].trim();
   var ptls = "over-tls=true";
   var ptfo = paraCheck(cnt, "tfo") == "true" ? "fast-open=true" : "fast-open=false";
   var pverify = cnt.replace(/ /g,"").indexOf("skip-cert-verify=false") != -1 ? "tls-verification=true" : "tls-verification=false";
   pvefify = Pcert0 == 1? "tls-verification=true" : pverify ;
   var ptls13 = paraCheck(cnt, "tls13") == "true" ? "tls13=true" : "tls13=false";
-  var nserver = "trojan= " + [ipport, pwd, ptls, ptfo, ptls13, pverify, tag].join(", ");
+  var nserver = "trojan= " + [ipport, pwd, sni, ptls, ptfo, ptls13, pverify, tag].join(", ");
   return nserver
 }
 // surge 中的 http 类型
