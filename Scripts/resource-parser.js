@@ -1,5 +1,7 @@
 /** 
 ☑️ 资源解析器 ©𝐒𝐡𝐚𝐰𝐧  ⟦2021-12-08 17:15⟧
+☑️ 自用，修改于 ©𝐒𝐡𝐚𝐰𝐧 的最近版本，修改了 Trojan 的协议转换  ⟦2021-12-18 13:25⟧
+☑️ 读取 sni 改成 读取 peer；Surge2QX 中关于 Trojan 的协议转换补充读取 sni
 ----------------------------------------------------------
 🛠 发现 𝐁𝐔𝐆 请反馈: @ShawnKOP_bot
 ⛳️ 关注 🆃🅶 相关频道: https://t.me/QuanX_API
@@ -2109,7 +2111,7 @@ function paraCheck(content, para) {
     return content.split(para+"=")[1].split(",")[0].trim()
   }
 }
-//surge中 trojan 类型转换
+//surge 中 trojan 类型转换
 function Strojan2QX(content) {
   var cnt = content;
   var tag = "tag=" + cnt.split("=")[0].trim();
