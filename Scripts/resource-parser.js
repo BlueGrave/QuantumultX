@@ -1,7 +1,7 @@
 /** 
 ☑️ 资源解析器 ©𝐒𝐡𝐚𝐰𝐧  ⟦2021-12-08 17:15⟧
-☑️ 自用，修改于 ©𝐒𝐡𝐚𝐰𝐧 的最近版本，修改了 Trojan 的协议转换  ⟦2021-12-18 13:25⟧
-☑️ 读取 sni 改成 读取 peer；Surge2QX 中关于 Trojan 的协议转换补充读取 sni
+☑️ 自用，修改于 ©𝐒𝐡𝐚𝐰𝐧 的最近版本，修改了 Trojan 的协议转换  ⟦2021-12-18 13:28⟧
+☑️ 读取 sni 改成 读取 peer；Surge2QX 中关于 Trojan 的协议转换补充 sni 转换成 tls-host
 ----------------------------------------------------------
 🛠 发现 𝐁𝐔𝐆 请反馈: @ShawnKOP_bot
 ⛳️ 关注 🆃🅶 相关频道: https://t.me/QuanX_API
@@ -2117,7 +2117,7 @@ function Strojan2QX(content) {
   var tag = "tag=" + cnt.split("=")[0].trim();
   var ipport = cnt.split(",")[1].trim() + ":" + cnt.split(",")[2].trim();
   var pwd = "password=" + cnt.split("password")[1].split(",")[0].split("=")[1].trim();
-  var sni = "sni=" + cnt.split("sni")[1].split(",")[0].split("=")[1].trim();
+  var sni = "tls-host=" + cnt.split("sni")[1].split(",")[0].split("=")[1].trim();
   var ptls = "over-tls=true";
   var ptfo = paraCheck(cnt, "tfo") == "true" ? "fast-open=true" : "fast-open=false";
   var pverify = cnt.replace(/ /g,"").indexOf("skip-cert-verify=false") != -1 ? "tls-verification=true" : "tls-verification=false";
