@@ -1,8 +1,7 @@
 /** 
-☑️ 资源解析器 ©𝐒𝐡𝐚𝐰𝐧  ⟦2021-12-08 17:15⟧
-☑️ 自用，修改自 ©𝐒𝐡𝐚𝐰𝐧 的最近版本  ⟦2021-12-18 14:49⟧
+☑️ 资源解析器 ©𝐒𝐡𝐚𝐰𝐧  ⟦2021-12-19 09:15⟧
+☑️ 自用，修改自 ©𝐒𝐡𝐚𝐰𝐧 的最近版本  ⟦2021-12-19 11:38⟧
 ☑️ Trojan 类型 URL 转换成 QX 中读取 sni 改成读取 peer
-☑️ Surge2QX 中关于 Trojan 的协议转换补充读取 sni 并转换成 tls-host
 ----------------------------------------------------------
 🛠 发现 𝐁𝐔𝐆 请反馈: @ShawnKOP_bot
 ⛳️ 关注 🆃🅶 相关频道: https://t.me/QuanX_API
@@ -2112,19 +2111,19 @@ function paraCheck(content, para) {
     return content.split(para+"=")[1].split(",")[0].trim()
   }
 }
-//surge 中 trojan 类型转换
+//surge中 trojan 类型转换
 function Strojan2QX(content) {
   var cnt = content;
   var tag = "tag=" + cnt.split("=")[0].trim();
   var ipport = cnt.split(",")[1].trim() + ":" + cnt.split(",")[2].trim();
   var pwd = "password=" + cnt.split("password")[1].split(",")[0].split("=")[1].trim();
-  var sni = "tls-host=" + cnt.split("sni")[1].split(",")[0].split("=")[1].trim();
   var ptls = "over-tls=true";
   var ptfo = paraCheck(cnt, "tfo") == "true" ? "fast-open=true" : "fast-open=false";
   var pverify = cnt.replace(/ /g,"").indexOf("skip-cert-verify=false") != -1 ? "tls-verification=true" : "tls-verification=false";
+  var phost = cnt.indexOf("sni")!=-1? "tls-host="+cnt.split("sni")[1].split(",")[0].split("=")[1]:""
   pvefify = Pcert0 == 1? "tls-verification=true" : pverify ;
   var ptls13 = paraCheck(cnt, "tls13") == "true" ? "tls13=true" : "tls13=false";
-  var nserver = "trojan= " + [ipport, pwd, sni, ptls, ptfo, ptls13, pverify, tag].join(", ");
+  var nserver = "trojan= " + [ipport, pwd, ptls, ptfo, ptls13, phost,pverify, tag].filter(Boolean).join(", ");
   return nserver
 }
 // surge 中的 http 类型
