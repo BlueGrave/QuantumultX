@@ -8,5 +8,4 @@
 - [BlackList.list](https://github.com/BlueGrave/QuantumultX/blob/master/Filter/BlackList.list) 需要 REJECT 阻止的规则
 - [RedList.list](https://github.com/BlueGrave/QuantumultX/blob/master/Filter/RedList.list) 需要 PROXY 代理的规则
 - [MyMoneyPro.list](https://github.com/BlueGrave/QuantumultX/blob/master/Filter/MyMoneyPro.list) 屏蔽随手记专业版 App 开屏广告
-- [Emby.list](https://github.com/BlueGrave/QuantumultX/blob/master/Filter/Emby.list) 自己整理的各个 Emby 规则
 - [AppleOS_Update.list](https://github.com/BlueGrave/QuantumultX/blob/master/Filter/AppleOS_Update.list) 结合多个大佬的相关规则整理出来的各 Apple OS OTA 规则
