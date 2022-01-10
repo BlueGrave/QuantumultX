@@ -1,7 +1,7 @@
 # Quantumult X
 自用的 Quantumult X 规则、脚本和图片
 
-主用 [@blackmatrix7/ios_rule_script/rule/QuantumultX](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX) 和 [@DivineEngine/Profiles/Quantumult](https://github.com/DivineEngine/Profiles/tree/master/Quantumult/Filter) 的规则
+主用 [@blackmatrix7](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX) 和 [@DivineEngine](https://github.com/DivineEngine/Profiles/tree/master/Quantumult/Filter) 的规则
 
 ### 自用的特殊规则
 - [WhiteList.list](https://github.com/BlueGrave/QuantumultX/blob/master/Filter/WhiteList.list) 需要 DIRECT 放行的规则
