@@ -6,6 +6,5 @@
 ### 自用的特殊规则
 - [WhiteList.list](https://github.com/BlueGrave/QuantumultX/blob/master/Filter/WhiteList.list) 需要 DIRECT 放行的规则
 - [BlackList.list](https://github.com/BlueGrave/QuantumultX/blob/master/Filter/BlackList.list) 需要 REJECT 阻止的规则
-- [RedList.list](https://github.com/BlueGrave/QuantumultX/blob/master/Filter/RedList.list) 需要 PROXY 代理的规则
 - [MyMoneyPro.list](https://github.com/BlueGrave/QuantumultX/blob/master/Filter/MyMoneyPro.list) 屏蔽随手记专业版 App 开屏广告
 - [AppleOS_Update.list](https://github.com/BlueGrave/QuantumultX/blob/master/Filter/AppleOS_Update.list) 结合多个大佬的相关规则整理出来的各 Apple OS OTA 规则
