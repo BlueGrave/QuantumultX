@@ -1,31 +1,52 @@
 # 自己整理的
 # 排除 AdBlock 的误伤
 
-HOST,gm.mmstat.com,DIRECT
-HOST,log.mmstat.com,DIRECT
-HOST,sycm.mmstat.com,DIRECT
-HOST,passportapi.115.com,DIRECT
-HOST,tui.weibo.com,DIRECT
-HOST,msg.umeng.com,DIRECT
-HOST,msg.umengcloud.com,DIRECT
-HOST,analytics.95516.com,DIRECT
-HOST,analytics.strava.com,DIRECT
-HOST,app.adjust.com,DIRECT
-HOST,bdtj.tagtic.cn,DIRECT
-HOST,fairplay.l.qq.com,DIRECT
-HOST,origin-a.akamaihd.net,DIRECT
-HOST,xivanalysis.com,DIRECT
-HOST,picanalysis.vivo.com.cn,DIRECT
-HOST,pubads.g.doubleclick.net,DIRECT
-HOST,livew.l.qq.com,DIRECT
-HOST,vd.l.qq.com,DIRECT
-HOST,analytics.95516.com,DIRECT
-HOST,tracking.miui.com,DIRECT
-HOST-SUFFIX,tce.alicdn.com,DIRECT
-HOST-SUFFIX,accounts.logi.com,DIRECT
-HOST-SUFFIX,ghub.logitech.io,DIRECT
-HOST-SUFFIX,dizhensubao.getui.com,DIRECT
-HOST-SUFFIX,f.video.weibocdn.com,DIRECT
-HOST-SUFFIX,fus.cdn.krcom.cn,DIRECT
-HOST-SUFFIX,tracking-protection.cdn.mozilla.net,DIRECT
-HOST-SUFFIX,st.dl.eccdnx.com,DIRECT
+# 通用
+HOST,app.adjust.com
+HOST,bdtj.tagtic.cn
+# 淘宝推广
+HOST,tce.alicdn.com
+# Alibaba
+HOST,log.mmstat.com
+HOST,sycm.mmstat.com
+# 罗技官网
+HOST-SUFFIX,accounts.logi.com
+HOST-SUFFIX,ghub.logitech.io
+HOST,gm.mmstat.com
+# 115 网盘
+HOST,passportapi.115.com
+# 微博推广
+HOST,tui.weibo.com
+# weibo
+HOST-SUFFIX,f.video.weibocdn.com
+# Getui
+HOST-SUFFIX,dizhensubao.getui.com
+# Mozilla
+HOST-SUFFIX,tracking-protection.cdn.mozilla.net
+# Origin
+HOST,origin-a.akamaihd.net
+HOST,xivanalysis.com
+HOST,picanalysis.vivo.com.cn
+# Strava
+HOST,analytics.strava.com
+# Umeng 友盟+
+HOST,msg.umeng.com
+HOST,msg.umengcloud.com
+# Tencent
+HOST,fairplay.l.qq.com
+HOST,livew.l.qq.com
+HOST,vd.l.qq.com
+# UnionPay
+HOST,analytics.95516.com
+# MIUI
+HOST,tracking.miui.com
+# Paramount+
+HOST,pubads.g.doubleclick.net
+# Krom 酷燃视频
+HOST-SUFFIX,fus.cdn.krcom.cn
+#RT-AX86U
+HOST,router.asus.com
+#　应对 edu.cn IPv6
+HOST-SUFFIX,edu.cn
+#　修正 SteamCN
+HOST-SUFFIX,st.dl.eccdnx.com
