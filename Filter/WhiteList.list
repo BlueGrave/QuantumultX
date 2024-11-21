@@ -2,51 +2,51 @@
 # 排除 AdBlock 的误伤
 
 # 通用
-HOST,app.adjust.com
-HOST,bdtj.tagtic.cn
+HOST,app.adjust.com,DIRECT
+HOST,bdtj.tagtic.cn,DIRECT
 # 淘宝推广
-HOST,tce.alicdn.com
+HOST,tce.alicdn.com,DIRECT
 # Alibaba
-HOST,log.mmstat.com
-HOST,sycm.mmstat.com
+HOST,log.mmstat.com,DIRECT
+HOST,sycm.mmstat.com,DIRECT
 # 罗技官网
-HOST-SUFFIX,accounts.logi.com
-HOST-SUFFIX,ghub.logitech.io
-HOST,gm.mmstat.com
+HOST-SUFFIX,accounts.logi.com,DIRECT
+HOST-SUFFIX,ghub.logitech.io,DIRECT
+HOST,gm.mmstat.com,DIRECT
 # 115 网盘
-HOST,passportapi.115.com
+HOST,passportapi.115.com,DIRECT
 # 微博推广
-HOST,tui.weibo.com
+HOST,tui.weibo.com,DIRECT
 # weibo
-HOST-SUFFIX,f.video.weibocdn.com
+HOST-SUFFIX,f.video.weibocdn.com,DIRECT
 # Getui
-HOST-SUFFIX,dizhensubao.getui.com
+HOST-SUFFIX,dizhensubao.getui.com,DIRECT
 # Mozilla
-HOST-SUFFIX,tracking-protection.cdn.mozilla.net
+HOST-SUFFIX,tracking-protection.cdn.mozilla.net,DIRECT
 # Origin
-HOST,origin-a.akamaihd.net
-HOST,xivanalysis.com
-HOST,picanalysis.vivo.com.cn
+HOST,origin-a.akamaihd.net,DIRECT
+HOST,xivanalysis.com,DIRECT
+HOST,picanalysis.vivo.com.cn,DIRECT
 # Strava
-HOST,analytics.strava.com
+HOST,analytics.strava.com,DIRECT
 # Umeng 友盟+
-HOST,msg.umeng.com
-HOST,msg.umengcloud.com
+HOST,msg.umeng.com,DIRECT
+HOST,msg.umengcloud.com,DIRECT
 # Tencent
-HOST,fairplay.l.qq.com
-HOST,livew.l.qq.com
-HOST,vd.l.qq.com
+HOST,fairplay.l.qq.com,DIRECT
+HOST,livew.l.qq.com,DIRECT
+HOST,vd.l.qq.com,DIRECT
 # UnionPay
-HOST,analytics.95516.com
+HOST,analytics.95516.com,DIRECT
 # MIUI
-HOST,tracking.miui.com
+HOST,tracking.miui.com,DIRECT
 # Paramount+
-HOST,pubads.g.doubleclick.net
+HOST,pubads.g.doubleclick.net,DIRECT
 # Krom 酷燃视频
-HOST-SUFFIX,fus.cdn.krcom.cn
+HOST-SUFFIX,fus.cdn.krcom.cn,DIRECT
 #RT-AX86U
-HOST,router.asus.com
+HOST,router.asus.com,DIRECT
 #　应对 edu.cn IPv6
-HOST-SUFFIX,edu.cn
+HOST-SUFFIX,edu.cn,DIRECT
 #　修正 SteamCN
-HOST-SUFFIX,st.dl.eccdnx.com
+HOST-SUFFIX,st.dl.eccdnx.com,DIRECT
